@@ -11,9 +11,9 @@
 *
 * ======================================================= */
 body {
-  font-family: Labrada, "Space Mono", Arial, serif;
+  font-family: "Poppins", "Labrada", "Space Mono", Arial, serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
   color: #4d4d4d;
   background: #fff;
@@ -64,7 +64,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Space Mono", Arial, serif;
+  font-family: "Poppins", "Space Mono", Arial, serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
